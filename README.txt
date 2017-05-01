@@ -11,7 +11,7 @@ Instrucciones ejecución programa:
 2. Ubicarse en la ruta en la cual está el archivo Program7.jar psp2.1_3\src\main\java\src (Carpeta del proyecto descargada de gitHub) o Program 7 PSP_Miguel Quintero\src (.zip subibo a sicua)
 3. Ejecutar el comando java -jar Program7.jar y pulsar la tecla Enter
 4. Ingresar la ruta del directorio a evaluar y presionar la tecla Enter o dar Click en el botón Aceptar de la ventana de mensaje que recibe el dato de entrada y pulsar enter. En la ruta 
-Program 4 PSP_Miguel Quintero\test (.zip subido a sicua) o psp2.1_3\src\site\resources\PSP2.1_3\test (Carpeta del proyecto descargada de gitHub) se encuentra el archivo numeros2.txt para facilitar
+Program 7 PSP_Miguel Quintero\test (.zip subido a sicua) o psp2.1_3\src\site\resources\PSP2.1_3\test (Carpeta del proyecto descargada de gitHub) se encuentra el archivo numeros2.txt para facilitar
 las pruebas. La estructura del archivo que recibe el programa es un par de números (x,y) separados por coma, por cada línea del archivo. Ejemplo:
 
 6,3
